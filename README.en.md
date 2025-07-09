@@ -13,7 +13,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
-        <img src="https://img.shields.io/badge/built_with-Node.js-43853D" alt="Made with Node.js">
+        <img src="https://img.shields.io/badge/made_with-Node.js-43853D" alt="Made with Node.js">
     </a>
     <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
         <img src="https://img.shields.io/badge/npm-v11.3.0-blue" alt="NPM version">
@@ -94,8 +94,8 @@ http://localhost:3000
 
 The following technologies were used throughout the development of the examples and activities in this repository:
 
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML): Markup language responsible for the structure of web pages.
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS): Style language used to define layout, colors, and responsiveness of interfaces.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): Markup language responsible for the structure of web pages.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Style language used to define layout, colors, and responsiveness of interfaces.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Programming language used both on the front-end and back-end of the projects.
 - [Node.js](https://nodejs.org/): JavaScript runtime environment on the server side, used to build the back-end logic of applications.
 - [Express.js](https://expressjs.com/): Web framework for Node.js that simplifies the creation of APIs and servers with a simple and powerful syntax.
@@ -127,4 +127,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -18,7 +18,7 @@
     <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
         <img src="https://img.shields.io/badge/npm-v11.3.0-blue" alt="NPM version">
     </a>
-    <a href="https://arturbomtempo-links.vercel.app/" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
         <img src="https://img.shields.io/badge/status-em%20progresso-yellow" alt="Status: Completed">
     </a>
     <a href="https://github.com/arturbomtempo-dev/journey-backend-guild/blob/main/LICENSE.md" target="_blank">
@@ -94,8 +94,8 @@ http://localhost:3000
 
 As seguintes tecnologias foram utilizadas ao longo do desenvolvimento dos exemplos e atividades deste repositório:
 
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Linguagem de marcação responsável pela estrutura das páginas web.
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Linguagem de estilo utilizada para definir o layout, cores e responsividade das interfaces.
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Linguagem de marcação responsável pela estrutura das páginas web.
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Linguagem de estilo utilizada para definir o layout, cores e responsividade das interfaces.
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem de programação utilizada tanto no front-end quanto no back-end dos projetos.
 - [Node.js](https://nodejs.org/): Ambiente de execução JavaScript no lado do servidor, utilizado para construir a lógica de back-end das aplicações.
 - [Express.js](https://expressjs.com/pt-br/): Framework web para Node.js que facilita a criação de APIs e servidores com uma sintaxe simples e poderosa.
