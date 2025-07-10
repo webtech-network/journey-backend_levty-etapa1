@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "crud": "node --watch crud.js",
     "dev": "node --watch server.js"
   },
   "keywords": [],
