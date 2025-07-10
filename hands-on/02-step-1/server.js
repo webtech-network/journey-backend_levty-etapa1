@@ -5,12 +5,9 @@ const app = express();
 const PORT = 4000;
 
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.urlencoded({ extended: true }));
 
 let ultimoContato = null;
-
-app.get('/contato', (res, req) => {
-    res.sendFile(path.join(__dirname, '/contato.html'))
-});
 
 app.get('/not-found', (req, res) => {
     res.status(404).send('<h1>Page not found</h1>');
@@ -22,8 +19,8 @@ app.post('/contato', (req, res) => {
 });
 
 app.get('/contato-recebido', (req, res) => {
-    if (ultimoContato === null) {
-        return res.redirect('/');
+    if (!ultimoContato) {
+        return res.redirect('/not-found');
     }
 
     const { name, email } = ultimoContato;
