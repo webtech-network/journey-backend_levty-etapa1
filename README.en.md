@@ -1,9 +1,9 @@
 <div align="center" id="about">
     <h1 align="center">
-        Backend Guild – Support Repository
+        Backend Chapter – Support Repository
     </h1>
     <p align="center">
-        This repository gathers source code, practical examples, and supplementary materials developed during the Journey Backend, a learning journey in back-end development with Node.js and Express, carried out in partnership between WebTech and LEVTY. The goal is to support Guild participants in studying, reviewing concepts, and deepening their practical understanding of the topics covered in classes and activities.
+        This repository brings together source code, practical examples, and supplementary materials developed throughout the Journey Backend — a learning experience in back-end development with Node.js and Express, organized in partnership between WebTech Network and LEVTY. Its purpose is to support Chapter participants in studying, reviewing concepts, and deepening their practical understanding of the topics covered in classes and activities.
     </p>
     <img 
         src="./resources/banner.png"
@@ -12,16 +12,16 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
         <img src="https://img.shields.io/badge/made_with-Node.js-43853D" alt="Made with Node.js">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
         <img src="https://img.shields.io/badge/npm-v11.3.0-blue" alt="NPM version">
     </a>
     <a href="https://arturbomtempo-links.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/status-in%20progress-yellow" alt="Status: In Progress">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild/blob/main/LICENSE.md" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/LICENSE.md" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-red" alt="MIT License">
     </a>
 </div>
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-    <p>🇧🇷 <a href="https://github.com/arturbomtempo-dev/journey-backend-guild/blob/main/README.md" target="_blank"><strong>Versão em português disponível aqui</strong></a></p>
+    <p>🇧🇷 <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/README.md" target="_blank"><strong>Versão em português disponível aqui</strong></a></p>
 </div>
 
 <br>
@@ -69,7 +69,7 @@ It is also recommended to use a code editor such as [Visual Studio Code](https:/
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/arturbomtempo-dev/journey-backend-guild.git
+$ git clone https://github.com/arturbomtempo-dev/journey-backend-chapter.git
 
 # Access the project folder
 $ cd {folder_name}
@@ -128,15 +128,4 @@ of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+furnished to do so, subject

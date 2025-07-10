@@ -1,9 +1,9 @@
 <div  align="center" id="about">
     <h1 align="center">
-        Guilda Backend – Repositório de Apoio
+        Chapter Backend – Repositório de Apoio
     </h1>
     <p align="center">
-        Este repositório reúne os códigos-fonte, exemplos práticos e materiais complementares desenvolvidos durante o Journey Backend, uma jornada de aprendizado em desenvolvimento back-end com Node.js e Express, realizada em parceria entre a WebTech e a LEVTY. O objetivo é apoiar os participantes da Guilda no estudo, revisão de conceitos e aprofundamento prático dos conteúdos abordados nas aulas e atividades.
+        Este repositório reúne os códigos-fonte, exemplos práticos e materiais complementares desenvolvidos ao longo do Journey Backend, uma jornada de aprendizado em desenvolvimento back-end com Node.js e Express, realizada em parceria entre o WebTech Network e a LEVTY. O objetivo é apoiar os participantes do Chapter no estudo, na revisão de conceitos e no aprofundamento prático dos conteúdos abordados nas aulas e atividades.
     </p>
     <img 
         src="./resources/banner.png"
@@ -12,16 +12,16 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
         <img src="https://img.shields.io/badge/feito_com-Node.js-43853D" alt="Made with Node.js">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
         <img src="https://img.shields.io/badge/npm-v11.3.0-blue" alt="NPM version">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
         <img src="https://img.shields.io/badge/status-em%20progresso-yellow" alt="Status: Completed">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-guild/blob/main/LICENSE.md" target="_blank">
+    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/LICENSE.md" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-red" alt="MIT License">
     </a>
 </div>
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-    <p>🇬🇧 <a href="https://github.com/arturbomtempo-dev/journey-backend-guild/blob/main/README.en.md" target="_blank"><strong>English version available here</strong></a></p>
+    <p>🇬🇧 <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/README.en.md" target="_blank"><strong>English version available here</strong></a></p>
 </div>
 
 <br>
@@ -69,7 +69,7 @@ Também é recomendável utilizar um editor de código como o [Visual Studio Cod
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/arturbomtempo-dev/journey-backend-guild.git
+$ git clone https://github.com/arturbomtempo-dev/journey-backend-chapter.git
 
 # Acesse a pasta do projeto
 $ cd {nome_da_pasta}
