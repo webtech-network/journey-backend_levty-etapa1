@@ -28,7 +28,7 @@ app.get('/contato-recebido', (req, res) => {
     res.send(`
             <h1>Contato recebido! Obrigado, ${name}</h1>
             <p><strong>E-mail:</strong> ${email}</p>
-        `);
+    `);
 });
 
 app.listen(PORT, () => {
