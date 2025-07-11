@@ -3,7 +3,7 @@
         Chapter Backend – Repositório de Apoio
     </h1>
     <p align="center">
-        Este repositório reúne os códigos-fonte, exemplos práticos e materiais complementares desenvolvidos ao longo do Journey Backend, uma jornada de aprendizado em desenvolvimento back-end com Node.js e Express, realizada em parceria entre o WebTech Network e a LEVTY. O objetivo é apoiar os participantes do Chapter no estudo, na revisão de conceitos e no aprofundamento prático dos conteúdos abordados nas aulas e atividades.
+        Este repositório reúne os códigos-fonte, exemplos práticos e materiais complementares desenvolvidos durante a primeira etapa do Journey Backend, uma jornada de aprendizado em desenvolvimento back-end com Node.js e Express, realizada em parceria entre o WebTech Network e a LEVTY. Ele documenta exclusivamente os conteúdos abordados nessa fase inicial, com o objetivo de apoiar os participantes no estudo, na revisão de conceitos e na aplicação prática dos temas trabalhados em aula.
     </p>
     <img 
         src="./resources/banner.png"
@@ -28,12 +28,6 @@
 
 ---
 
-<div align="center">
-    <p>🇬🇧 <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/README.en.md" target="_blank"><strong>English version available here</strong></a></p>
-</div>
-
-<br>
-
 <div id="table-of-contents"></div>
 
 ## 📋 Tabela de conteúdos
@@ -52,7 +46,7 @@
 
 - [x] Códigos-fonte das aulas explicados de forma clara e prática
 - [x] Exemplos utilizados nos hands-on durante o Journey Backend
-- [x] Atividades resolvidas (disponibilizadas após o encerramento de cada etapa)
+- [x] Atividade resolvida (disponibilizadas após o encerramento da etapa)
 - [x] Códigos extras solicitados pela comunidade para reforço do conteúdo
 
 <div id="setup-and-run-the-application"></div>
