@@ -6,6 +6,8 @@ app.use(express.json());
 const port = 4000;
 
 let posts = [];
+let idMax = 1;
+
 
 app.get("/posts", (req, res) => {
   console.log(posts);
@@ -23,16 +25,16 @@ app.get("/posts/:id", (req, res) => {
 
 app.post("/posts", (req, res) => {
   // const { title, content } = req.body;
+  
   const post = {
-    id: 0,
+    id: idMax++ ,
     title: req.body.title,
     content: req.body.content,
   };
 
-  //error
-  post.id = posts.map((newId) => {
-    if (newId < post.id) return post.id + 1;
-  });
+  if (!post.title || !post.content)
+    return res.status(400).send({ message: "Title and content are required" });
+
 
   posts.push(post);
   res.status(201).json({
