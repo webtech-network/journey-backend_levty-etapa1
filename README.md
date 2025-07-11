@@ -115,7 +115,7 @@ Desenvolvido por Artur Bomtempo 👋🏻. Entre em contato:
 
 ## 📜 Licença
 
-Copyright (c) 2025 Artur Bomtempo Colen
+Copyright (c) 2025 WebTech Network
 
 Por meio deste, é concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e dos arquivos de documentação associados (o "Software"), para tratar
