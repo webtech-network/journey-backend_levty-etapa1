@@ -9,16 +9,15 @@ app.use(morgan('common'));
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Olá, Mundo!');
 });
 
 app.use('/site', express.static('public'));
 
 app.use((req, res) => {
-    res.status(404).send('Page not found');
+    res.status(404).send('Página não encontrada');
 });
 
-
 app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Servidor está rodando na porta ${PORT}`);
 });

@@ -9,8 +9,8 @@ app.use(express.urlencoded({ extended: true }));
 
 let ultimoContato = null;
 
-app.get('/not-found', (req, res) => {
-    res.status(404).send('<h1>Page not found</h1>');
+app.get('/nao-encontrado', (req, res) => {
+    res.status(404).send('<h1>Página não encontrada</h1>');
 });
 
 app.post('/contato', (req, res) => {
@@ -20,17 +20,17 @@ app.post('/contato', (req, res) => {
 
 app.get('/contato-recebido', (req, res) => {
     if (!ultimoContato) {
-        return res.redirect('/not-found');
+        return res.redirect('/nao-encontrado');
     }
 
-    const { name, email } = ultimoContato;
+    const { nome, email } = ultimoContato;
 
     res.send(`
-            <h1>Contato recebido! Obrigado, ${name}</h1>
+            <h1>Contato recebido! Obrigado, ${nome}</h1>
             <p><strong>E-mail:</strong> ${email}</p>
     `);
 });
 
 app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Servidor rodando na porta ${PORT}`);
 });
