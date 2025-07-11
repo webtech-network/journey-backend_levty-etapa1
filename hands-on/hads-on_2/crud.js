@@ -1,3 +1,12 @@
+/**
+ * @fileoverview CRUD API for managing posts using Express.js.
+ * Provides endpoints to create, read, update, and delete posts in memory.
+ * Each post contains an id, title, and content.
+ * 
+ * @author Davi Cândido de Almeida
+ * @github https://github.com/daviKandido
+ */
+
 const express = require("express");
 const app = express();
 
