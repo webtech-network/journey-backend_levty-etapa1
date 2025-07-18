@@ -32,22 +32,22 @@
 
 ## 📋 Tabela de conteúdos
 
-- [Sobre](#about)
-- [Tabela de conteúdos](#table-of-contents)
-- [O que você encontrará neste repositório](#features)
-- [Configuração e Execução da Aplicação](#setup-and-run-the-application)
-- [Tecnologias](#technologies)
-- [Autor](#author)
-- [Licença](#license)
+-   [Sobre](#about)
+-   [Tabela de conteúdos](#table-of-contents)
+-   [O que você encontrará neste repositório](#features)
+-   [Configuração e Execução da Aplicação](#setup-and-run-the-application)
+-   [Tecnologias](#technologies)
+-   [Autor](#author)
+-   [Licença](#license)
 
 <div id="features"></div>
 
 ## 📝 O que você encontrará neste repositório
 
-- [x] Códigos-fonte das aulas explicados de forma clara e prática
-- [x] Exemplos utilizados nos hands-on durante o Journey Backend
-- [x] Atividade resolvida (disponibilizadas após o encerramento da etapa)
-- [x] Códigos extras solicitados pela comunidade para reforço do conteúdo
+-   [x] Códigos-fonte das aulas explicados de forma clara e prática
+-   [x] Exemplos utilizados nos hands-on durante o Journey Backend
+-   [x] Atividade resolvida (disponibilizadas após o encerramento da etapa)
+-   [x] Códigos extras solicitados pela comunidade para reforço do conteúdo
 
 <div id="setup-and-run-the-application"></div>
 
@@ -88,13 +88,13 @@ http://localhost:3000
 
 As seguintes tecnologias foram utilizadas ao longo do desenvolvimento dos exemplos e atividades deste repositório:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Linguagem de marcação responsável pela estrutura das páginas web.
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Linguagem de estilo utilizada para definir o layout, cores e responsividade das interfaces.
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem de programação utilizada tanto no front-end quanto no back-end dos projetos.
-- [Node.js](https://nodejs.org/): Ambiente de execução JavaScript no lado do servidor, utilizado para construir a lógica de back-end das aplicações.
-- [Express.js](https://expressjs.com/pt-br/): Framework web para Node.js que facilita a criação de APIs e servidores com uma sintaxe simples e poderosa.
-- [PostgreSQL](https://www.postgresql.org/docs/): Sistema de gerenciamento de banco de dados relacional avançado e open-source, utilizado para persistência de dados.
-- [Docker](https://docs.docker.com/): Plataforma de containers que permite empacotar e rodar aplicações em ambientes isolados, facilitando o desenvolvimento e a implantação.
+-   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Linguagem de marcação responsável pela estrutura das páginas web.
+-   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Linguagem de estilo utilizada para definir o layout, cores e responsividade das interfaces.
+-   [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem de programação utilizada tanto no front-end quanto no back-end dos projetos.
+-   [Node.js](https://nodejs.org/): Ambiente de execução JavaScript no lado do servidor, utilizado para construir a lógica de back-end das aplicações.
+-   [Express.js](https://expressjs.com/pt-br/): Framework web para Node.js que facilita a criação de APIs e servidores com uma sintaxe simples e poderosa.
+-   [PostgreSQL](https://www.postgresql.org/docs/): Sistema de gerenciamento de banco de dados relacional avançado e open-source, utilizado para persistência de dados.
+-   [Docker](https://docs.docker.com/): Plataforma de containers que permite empacotar e rodar aplicações em ambientes isolados, facilitando o desenvolvimento e a implantação.
 
 <div id="author"></div>
 
