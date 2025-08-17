@@ -1,6 +1,6 @@
 <div  align="center" id="about">
     <h1 align="center">
-        Chapter Backend – Repositório de Apoio
+        Chapter Backend – Repositório de Apoio da Etapa 1
     </h1>
     <p align="center">
         Este repositório reúne os códigos-fonte, exemplos práticos e materiais complementares desenvolvidos durante a primeira etapa do Journey Backend, uma jornada de aprendizado em desenvolvimento back-end com Node.js e Express, realizada em parceria entre o WebTech Network e a LEVTY. Ele documenta exclusivamente os conteúdos abordados nessa fase inicial, com o objetivo de apoiar os participantes no estudo, na revisão de conceitos e na aplicação prática dos temas trabalhados em aula.
