@@ -12,16 +12,16 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
+    <a href="https://github.com/webtech-network/journey-backend_levty-etapa1" target="_blank">
         <img src="https://img.shields.io/badge/feito_com-Node.js-43853D" alt="Made with Node.js">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
+    <a href="https://github.com/webtech-network/journey-backend_levty-etapa1" target="_blank">
         <img src="https://img.shields.io/badge/npm-v11.3.0-blue" alt="NPM version">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
+    <a href="https://github.com/webtech-network/journey-backend_levty-etapa1" target="_blank">
         <img src="https://img.shields.io/badge/status-Concluído-green" alt="Status: Completed">
     </a>
-    <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/LICENSE.md" target="_blank">
+    <a href="https://github.com/webtech-network/journey-backend_levty-etapa1/blob/main/LICENSE.md" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-red" alt="MIT License">
     </a>
 </div>
@@ -63,7 +63,7 @@ Também é recomendável utilizar um editor de código como o [Visual Studio Cod
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/arturbomtempo-dev/journey-backend-chapter.git
+$ git clone https://github.com/webtech-network/journey-backend_levty-etapa1.git
 
 # Acesse a pasta do projeto
 $ cd {nome_da_pasta}
@@ -88,13 +88,9 @@ http://localhost:3000
 
 As seguintes tecnologias foram utilizadas ao longo do desenvolvimento dos exemplos e atividades deste repositório:
 
--   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Linguagem de marcação responsável pela estrutura das páginas web.
--   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Linguagem de estilo utilizada para definir o layout, cores e responsividade das interfaces.
 -   [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem de programação utilizada tanto no front-end quanto no back-end dos projetos.
 -   [Node.js](https://nodejs.org/): Ambiente de execução JavaScript no lado do servidor, utilizado para construir a lógica de back-end das aplicações.
 -   [Express.js](https://expressjs.com/pt-br/): Framework web para Node.js que facilita a criação de APIs e servidores com uma sintaxe simples e poderosa.
--   [PostgreSQL](https://www.postgresql.org/docs/): Sistema de gerenciamento de banco de dados relacional avançado e open-source, utilizado para persistência de dados.
--   [Docker](https://docs.docker.com/): Plataforma de containers que permite empacotar e rodar aplicações em ambientes isolados, facilitando o desenvolvimento e a implantação.
 
 <div id="author"></div>
 
