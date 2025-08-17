@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/npm-v11.3.0-blue" alt="NPM version">
     </a>
     <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter" target="_blank">
-        <img src="https://img.shields.io/badge/status-em%20progresso-yellow" alt="Status: Completed">
+        <img src="https://img.shields.io/badge/status-Concluído-green" alt="Status: Completed">
     </a>
     <a href="https://github.com/arturbomtempo-dev/journey-backend-chapter/blob/main/LICENSE.md" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-red" alt="MIT License">
